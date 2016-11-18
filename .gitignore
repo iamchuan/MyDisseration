@@ -4,3 +4,5 @@
 *.toc
 *.gz
 Figure/*.pdf
+*.bbl
+*.blg
