@@ -1,0 +1,5 @@
+*.lo?
+*.aux
+*.pdf
+*.toc
+*.gz
